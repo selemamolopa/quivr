@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.0.75 (2023-09-16)
+
+## What's Changed
+* feat(frontend): responsiveness by @StanGirard in https://github.com/StanGirard/quivr/pull/1174
+* feat(upload): changed to task by @StanGirard in https://github.com/StanGirard/quivr/pull/1178
+* fix(qa_base): asign max_token to llm by @B0rrA in https://github.com/StanGirard/quivr/pull/1179
+* feat(perf): increased perf embedding and search for files by @StanGirard in https://github.com/StanGirard/quivr/pull/1182
+* fix(usersettings): Fix bugs with user settings in the back always gpt-3.5-turbo by @StanGirard in https://github.com/StanGirard/quivr/pull/1183
+* feat(notificatins): higher refresh rate by @StanGirard in https://github.com/StanGirard/quivr/pull/1184
+* style(notifications): improve the messages for the notifications by @StanGirard in https://github.com/StanGirard/quivr/pull/1185
+* fix(notifications): dead notifications that are still present long after by @StanGirard in https://github.com/StanGirard/quivr/pull/1186
+* fix(notifications): greater than 5 minutes ago not less by @StanGirard in https://github.com/StanGirard/quivr/pull/1187
+* feat(aws): improved size by @StanGirard in https://github.com/StanGirard/quivr/pull/1188
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.74...v0.0.75
+
 ## 0.0.74 (2023-09-14)
 
 **Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.73...v0.0.74
